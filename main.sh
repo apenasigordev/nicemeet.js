@@ -1,1 +1,1 @@
-npm deprecate nicemeet.js@1.0.1 "No better"
+npm login --scope=@apenasigor --registry=https://npm.pkg.github.com
