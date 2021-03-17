@@ -31,5 +31,5 @@ client.on("message", message => {
 ```
 
 # Update
-- New Github [NiceMeet.js](https://github.com/nicemeetjs/nicemeet.js)
+- New Github [NiceMeet.js](https://github.com/apenasigordev/nicemeet.js)
 - We are working on something new, I am trying to create a team for this.
