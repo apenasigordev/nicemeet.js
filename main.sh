@@ -1,0 +1,1 @@
+npm deprecate nicemeet.js@1.0.1 "No better"
