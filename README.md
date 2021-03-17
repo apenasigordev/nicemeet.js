@@ -30,3 +30,6 @@ client.on("message", message => {
 })
 ```
 
+# Update
+- New Github [NiceMeet.js](https://github.com/nicemeetjs/nicemeet.js)
+- We are working on something new, I am trying to create a team for this.

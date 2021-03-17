@@ -5,6 +5,6 @@ const meet = require("./index.js");
 //require('dotenv').config();
 client.on("message", message => {
   if(message.author.bot) return;
-  if(message.content === "test") return meet.joke(message);
+  if(message.content === "joke") return meet.joke(message);
 });
-client.login("NzgwMTAwMDMzMzQ0NTY5Mzk0.X7qKxQ.BGWpX1s1EeNQtzVq4c0QFzoZJOA");
+client.login();
